@@ -4,6 +4,7 @@
 ## Frontend (/web)
 
 - [React]()
+- [ViteJs]()
 - [Styled Components]()
 
 ## Backend (/server)
