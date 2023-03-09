@@ -17,8 +17,7 @@ module.exports = class openai{
                 max_tokens: 150,
                 top_p: 1,
                 frequency_penalty: 0.5,
-                presence_penalty: 0.6,
-                stop: [" Human:", " AI:"],            
+                presence_penalty: 0.6,                           
         }
     }
 }
