@@ -1,13 +1,13 @@
 # Projeto :rocket:
 - Aplicação completa utilizando inteligência artificial
 
-## Frontend (/web)
+## Frontend (/web) :robot:
 
 - [React]()
 - [ViteJs]()
 - [Styled Components]()
 
-## Backend (/server)
+## Backend (/server) :robot:
 
 - [NodeJs]()
 - [Express]()
